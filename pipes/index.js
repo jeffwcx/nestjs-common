@@ -6,3 +6,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./parse-int.pipe"));
 __export(require("./parse-uuid.pipe"));
 __export(require("./validation.pipe"));
+__export(require("./decorators"));
